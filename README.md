@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+<img width="1485" height="1059" alt="ChatGPT Image Jun 15, 2026, 10_20_25 AM" src="https://github.com/user-attachments/assets/42617735-609c-4824-bea4-87341a478ba7" />
 
 
 ## RESULT:
